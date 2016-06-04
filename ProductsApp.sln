@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsApp", "ProductsApp\ProductsApp.csproj", "{56AC3798-3D3C-4A0A-ABE4-1743ABAA976B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56AC3798-3D3C-4A0A-ABE4-1743ABAA976B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AC3798-3D3C-4A0A-ABE4-1743ABAA976B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AC3798-3D3C-4A0A-ABE4-1743ABAA976B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AC3798-3D3C-4A0A-ABE4-1743ABAA976B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
